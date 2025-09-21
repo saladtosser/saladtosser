@@ -1,8 +1,7 @@
- 🕶️ SYSTEM: SALADTOSSER
+🕶️ SYSTEM: SALADTOSSER
 
 booting profile...
 establishing uplink... [OK]
-
 
 ---
 
@@ -14,7 +13,7 @@ establishing uplink... [OK]
 ---
 
 <p align="center">
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ1YXA3eGU0dHZyZGZuOGRuaTEzNG15Z2d6YTQxcTAyZHlpMHRxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fA7rLtaJDIWEzU57CT/giphy.gif)" width="500" />
+  <img src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="500" />
 </p>
 
 ---
