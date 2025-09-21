@@ -1,18 +1,22 @@
-# 🕶️ SYSTEM: SALADTOSSER
+ 🕶️ SYSTEM: SALADTOSSER
 
-> "Netrunning ain't hacking. It's burning your soul through a fiber line."
+booting profile...
+establishing uplink... [OK]
 
----
-
-### ⚡ System Status
-![Stats](https://github-readme-stats.vercel.app/api?username=saladtosser&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=FF073A&text_color=39FF14)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saladtosser&layout=compact&theme=radical&bg_color=000000&title_color=FF073A&text_color=39FF14&hide_border=true)
 
 ---
 
-### 🐍 Contribution Snake
-![Netrunner Snake](https://github.com/saladtosser/saladtosser/blob/output/github-snake-dark.svg)
+### System Status
+![Stats](https://github-readme-stats.vercel.app/api?username=saladtosser&show_icons=true&hide_border=true&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFD700)
 
---- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saladtosser&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FF00FF)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
+</p>
+
+---
+
 Just messing with tech and eating food lol
