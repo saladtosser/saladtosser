@@ -10,7 +10,7 @@ establishing uplink... [OK]
 
 
 <p align="center">
-  <img src="YOUR_CUSTOM_GIF_URL_HERE" width="400" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt5cWJpczI2a3V2bGI0anJoOXd2aGN4djdvdDI3ZnE4d2Z6cjJhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" width="400" />
 </p>
 
 
