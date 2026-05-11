@@ -1,4 +1,3 @@
-# 🕶️ SYSTEM: SALADTOSSER
 booting profile...  
 establishing uplink... [OK]
 
